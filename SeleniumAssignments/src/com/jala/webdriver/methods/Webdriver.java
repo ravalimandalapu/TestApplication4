@@ -32,6 +32,7 @@ public class Webdriver {
 	        System.out.println(d.getTitle());
 	      // to get the page source of url
 	        System.out.println(d.getPageSource());
+		//hgduasygfdghifghdif
 	        
 	        d.findElement(By.xpath("//*[@id=\"myNavbar\"]/ul[1]/li[2]/a")).click();
 	        // switch to method used in web driver
