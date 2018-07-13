@@ -40,7 +40,7 @@ public class GetAttribute {
 		driver.findElement(By.xpath("//img[@title='Webmail Link']")).getAttribute("src");
 		System.out.println("12.passed");
 		
-
+//testing github
 	}
 
 }
